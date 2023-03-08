@@ -44,8 +44,8 @@ const Header = () => {
                     <span>Airport taxis</span>
                 </div>
             </div>
-            <h1 className="headerTitle">titletieladsfasdfasdf</h1>
-            <p className="headerDesc">description asldkfjalsdkjflkasdjfklasjdlfjaslkdfjlajs</p>
+            <h1 className="headerTitle">Travel with JYBooking!</h1>
+            <p className="headerDesc">Easy to book, hard to say goodbye to</p>
             <button className="headerBtn">Sign in / Register</button>
             <div className="headerSearch">
                 <div className="headerSearchItem">
